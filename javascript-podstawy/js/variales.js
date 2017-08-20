@@ -8,6 +8,8 @@ console.log(imie);
 console.log(imieDamskie);
 console.log(wiek);
 
+//console.log(.....); - znaczy wyświetl
+
 imie = "Adam"
 imieDamskie = "Zosia"
 

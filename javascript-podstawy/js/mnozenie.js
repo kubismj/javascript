@@ -1,4 +1,4 @@
-'use stict'
+'use stict';
 
 //ay przejsc przez całą tablice musimy użyć pętli
 
